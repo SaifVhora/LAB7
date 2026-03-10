@@ -100,7 +100,7 @@
     </main>
     <footer>
       <div class="d-flex justify-content-center gap-3">
-        <h5>&copy; 2025 Lab 5</h5>
+        <h5>&copy; 2025 Lab 7</h5>
       </div>
     </footer>
     <script src="./js/bootstrap.bundle.min.js"></script>
